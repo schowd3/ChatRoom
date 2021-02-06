@@ -1,1 +1,3 @@
 # ChatRoom
+
+Android Chat application.
