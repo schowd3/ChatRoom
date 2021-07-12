@@ -1,3 +1,3 @@
 # ChatRoom
 
-Android Chat application.
+Android Chat application that uses Firebase.
